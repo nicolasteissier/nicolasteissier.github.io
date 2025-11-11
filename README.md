@@ -5,13 +5,13 @@
 📍 Lausanne, Switzerland  
 📧 nicolas.teissier@epfl.ch  
 🔗 [LinkedIn](https://linkedin.com/in/teissier-nicolas)  
-💼 [GitHub](https://github.com/yourusername)
+💼 [GitHub](https://github.com/nicolasteissier)
 
 ---
 
 ## About Me
 
-I'm a Master's student in Data Science at EPFL specializing in **Large Language Models**, **RAG systems**, and **speech AI**. I'm passionate about building AI-powered solutions that solve real-world problems.
+I'm a Master's student in Data Science at EPFL specializing in **Large Language Models** and **Speech Processing / Generation**. I'm passionate about building LLM-powered solutions that solve real-world problems.
 
 Currently seeking a **6-month internship starting September 2026** in AI/ML engineering or data science.
 
@@ -20,8 +20,8 @@ Currently seeking a **6-month internship starting September 2026** in AI/ML engi
 ## Skills
 
 **AI & Machine Learning:** LLM Fine-tuning, RAG Systems, Prompt Engineering, Deep Learning, NLP  
-**Programming:** Python, SQL, R, Scala, C++  
-**Tools & Frameworks:** PyTorch, TensorFlow, Hugging Face, FastAPI, Streamlit, PySpark  
+**Programming:** Python, SQL, R, Scala, C#  
+**Tools & Frameworks:** PyTorch, TensorFlow, Hugging Face, FastAPI, PySpark  
 **Data:** ETL Pipelines, Data Processing, Big Data, Statistical Analysis
 
 ---
