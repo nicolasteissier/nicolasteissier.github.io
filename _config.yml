@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: Nicolas Teissier - Portfolio
+theme: jekyll-theme-cayman
+title: Nicolas Teissier
 description: Data Science & AI/ML Portfolio
+show_downloads: false
